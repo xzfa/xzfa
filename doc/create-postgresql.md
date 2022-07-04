@@ -203,5 +203,5 @@ $ vi /etc/crontab
 
 
 
-# navicat破解
+# navicat
 * https://rlds.tk/
